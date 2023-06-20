@@ -1,0 +1,78 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #000000FF;
+  
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Papyrus', fantasy;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #FFFFFFFF;
+}
+
+p {
+  font-size: 2rem;
+  color: #FFFFFFFF;
+  font-family: 'Papyrus', fantasy;
+}
+
+img {
+  width: 80%;
+}
+
+.button {
+  display: block;
+  height: 55px;
+  width: 130px;
+  padding: 0;
+  background-color: rgb(9, 81, 57);
+  border: none;
+  outline-offset: 0px;
+  border-radius: 5px;
+  overflow: hidden;
+  font-family: 'Papyrus', fantasy;
+  font-weight: bold;
+  cursor: pointer;
+  margin: auto;
+}
+
+.button:hover {
+  background-color: rgb(4, 49, 34) ;
+}
+
+.button:active {
+  background-color: rgb(1, 26, 17);
+}
+
+.button__text
+ {
+  display: inline-flex;
+  align-items: center;
+  color: #EEEEEE;
+  font-size: 18px;
+  height: 100%;
+  padding: 0 5px;
+}
+
+
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Papyrus', fantasy;
+
+}
