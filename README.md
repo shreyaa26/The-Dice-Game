@@ -38,12 +38,12 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/2d-roll-the-dice-game.git
+   git clone https://github.com/shreyaa26/The-Dice-Game.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd 2d-roll-the-dice-game
+   cd The-Dice-Game
 
 4. Open the index.html file in your preferred web browser.
 
