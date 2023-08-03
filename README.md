@@ -12,6 +12,7 @@ Welcome to the Roll the Dice Game! This is a simple web-based game where two pla
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Introduction
 
