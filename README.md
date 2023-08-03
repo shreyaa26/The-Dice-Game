@@ -1,6 +1,6 @@
-# 2D Roll the Dice Game
+# Roll the Dice Game
 
-Welcome to the 2D Roll the Dice Game! This is a simple web-based game where two players can roll dice and compete to see who gets the higher number. The game provides an interactive way to enjoy a classic dice game virtually.
+Welcome to the Roll the Dice Game! This is a simple web-based game where two players can roll dice and compete to see who gets the higher number. The game provides an interactive way to enjoy a classic dice game virtually.
 
 ## Table of Contents
 
