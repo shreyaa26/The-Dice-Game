@@ -69,5 +69,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
+## Contact
 
+For any questions, suggestions, or feedback, feel free to reach out to me [here](sarohashreya1102@gmail.com).
+
+Connect with me on [GitHub](https://github.com/shreyaa26) and [LinkedIn](https://www.linkedin.com/in/shreya-saroha-a9222922a/).
 
