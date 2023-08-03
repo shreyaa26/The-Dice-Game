@@ -42,9 +42,10 @@ To run the project locally, follow these steps:
 
 2. Navigate to the project directory:
 
+   ```bash
    cd 2d-roll-the-dice-game
 
-3. Open the index.html file in your preferred web browser.
+4. Open the index.html file in your preferred web browser.
 
 ## Usage
 
