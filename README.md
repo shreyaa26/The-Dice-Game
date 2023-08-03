@@ -20,7 +20,7 @@ This project is a 2D web-based dice game that allows two players to roll dice an
 
 ## Demo
 
-You can try out the game by visiting the [2D Roll the Dice Game Demo](https://your-username.github.io/2d-roll-the-dice-game).
+You can try out the game by visiting the [Roll the Dice Game Demo](https://shreyaa26.github.io/The-Dice-Game).
 
 ## Features
 
