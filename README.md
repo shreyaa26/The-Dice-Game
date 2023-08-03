@@ -2,6 +2,14 @@
 
 Welcome to the Roll the Dice Game! This is a simple web-based game where two players can roll dice and compete to see who gets the higher number. The game provides an interactive way to enjoy a classic dice game virtually.
 
+Home page - 
+
+![Home page](1.png)
+
+Edit names feature - 
+
+![Edit-names-feature](2.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
